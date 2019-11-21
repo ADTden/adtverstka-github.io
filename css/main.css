@@ -1,0 +1,244 @@
+body{
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0 auto;
+	width: 1280px;
+
+}
+header{	
+	
+	height: 100px;
+}
+div {
+	box-sizing: border-box;
+
+}
+.container {
+	margin: 0 auto;
+	width: 994px;
+	
+}
+.logo{
+ margin: 24px 0px 0px 21px;
+ float: left;
+}
+nav{
+	float: right;
+	margin-top: 43px;
+
+}
+
+section{
+	height: 539px;
+	width: 1280px;
+}
+.menu{
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+.menu li{
+	float: left;
+	display: block;
+	margin-right: 38px;
+}
+.menu li a{
+	color: #8F8F8FFF;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+
+.layer1{
+	background: url(../img/Layer-1.png) no-repeat center top /cover;
+
+}
+.iphone{
+	margin-left: 51px;
+	margin-top: 49px;
+	float: left;
+
+}
+
+.buy{
+	float: left;
+	margin-top: 70px;
+	margin-left: -250px;
+	
+}
+.planet{
+	
+	
+	margin-top: 180px;
+	margin-right: 10px;
+
+}
+
+h3{
+	font-size: 20px;
+margin: 0px;
+}
+
+.ch1{
+	font-size: 28px;
+	margin-top: 60px;
+	margin-bottom: 0px;
+}
+.ch2{
+
+	font-size: 13px;
+	margin-left: 10px;
+	margin-top: 11px;
+	color: #B9F3F2FF
+}
+.topM{
+color: #B9F3F2FF;
+text-transform: uppercase;
+
+}
+.M1{
+	padding-top: 184px;
+}
+.ibotton:hover{
+	cursor: pointer;
+opacity: .9;
+	
+
+}
+
+
+
+
+#Slider{
+	position: relative;
+	width: 100%;
+	height: 541px;
+	background-color: url(../img/Layer-1.png) no-repeat center top /cover;
+}
+
+.Slide1{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: url(../img/Layer-1.png) no-repeat center top /cover;
+	display: none;
+}
+.Slide2{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	display: none;
+}
+.Slide3{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: url(../img/Layer-1.png) no-repeat center top /cover;
+	display: none;
+}
+
+.Slide1.active{
+	display: block;
+}
+.Slide2.active{
+	display: block;
+}
+.Slide3.active{
+	display: block;
+}
+
+
+
+
+
+#ra{
+	margin-top: 100px;
+	cursor: pointer;
+}
+.menub{
+	display: block;
+	float: right;
+	position: relative;
+	margin-top: -615px;	
+	
+}
+
+.menu1 li{
+	float: left;
+	display: block;
+	margin-right: 0px;
+	cursor: pointer;
+	height: 130px;
+	padding-bottom: 9px;
+
+
+	
+
+}
+.menu1 li:hover{
+background-color: white;
+}
+.imgM{
+	width: 100%;
+	height: 100%;
+}
+
+.c2h1{
+	text-align: center;
+	font-size: 28px;
+	margin-top: 50px;
+	margin-bottom: 0px;
+}
+.c2h2{
+	text-align: center;
+	font-size: 13px;
+	margin-left: 10px;
+	margin-top: 30px;
+
+}
+.c2i1{
+	margin-left: 30%;
+	margin-top: 41px;
+
+}
+.c3i1{
+	margin-left: -14.5%;
+	float: left;
+	margin-top: 124px;
+
+}
+
+.layer2{
+	margin-top:-250px; 
+	background: url(../img/Layer-6.png) no-repeat center top /cover;
+
+}
+.c4i1{
+	float: left;
+	margin-top: 120px;
+
+}
+.M2{
+	padding-top: 160px;
+}
+
+.c5i1{
+	margin-top: 100px;
+}
+.c5i2{
+	float: right;
+margin-right: -143px;
+	margin-top: 0px;
+}
+footer{
+	margin-top: -26px;
+		border-top: 1px solid black;
+}
+.c6h2{
+	
+	color: #999999FF;
+	font-size: 15px;
+	text-align: center;
+	margin-top: 41px;
+	margin-bottom: 41px;
+}
